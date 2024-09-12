@@ -1,4 +1,4 @@
-a, b = 1, 2
-while a < 10:
-    print(a)
-    a, b = b, a+b
+import testing as testingio
+
+f100 = testingio.fibonacciReturn(2000)
+print(f100)
