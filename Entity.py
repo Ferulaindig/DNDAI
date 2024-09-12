@@ -1,0 +1,3 @@
+# What?
+class Entity:
+    pass

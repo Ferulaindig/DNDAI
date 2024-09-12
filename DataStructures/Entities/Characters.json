@@ -1,0 +1,325 @@
+{
+    "Base": {
+        "FirstName": "",
+        "LastName": "",
+        "Age": "",
+        "Height": "",
+        "Weight": ""
+    },
+    "Base Stats": {
+        "Strength": {
+            "Base": "",
+            "Modifier": "",
+            "Score": ""
+        },
+        "Intelligence": {
+            "Base": "",
+            "Modifier": "",
+            "Score": ""
+        },
+        "Dexterity": {
+            "Base": "",
+            "Modifier": "",
+            "Score": ""
+        },
+        "Charisma": {
+            "Base": "",
+            "Modifier": "",
+            "Score": ""
+        },
+        "Pereption": {
+            "Base": "",
+            "Modifier": "",
+            "Score": ""
+        },
+        "Statuses": [
+            {
+                "Affects": "",
+                "Description": "",
+                "Value": ""
+            }
+        ]
+    },
+    "Relationships": [
+        {
+            "CharID": "",
+            "Type": "",
+            "Long Opinion": "",
+            "Short Opinion": "",
+            "Interactions": [
+                {
+                    "Timestamp": "",
+                    "Subjective": "",
+                    "Objective": "",
+                    "Impacts": "",
+                    "Value": ""
+                },
+                {
+                    "Timestamp": "",
+                    "Subjective": "",
+                    "Objective": "",
+                    "Impacts": "",
+                    "Value": ""
+                }
+            ]
+        },
+        {
+            "CharID": "",
+            "Type": "",
+            "Long Opinion": "",
+            "Short Opinion": "",
+            "Interactions": [
+                {
+                    "Timestamp": "",
+                    "Subjective": "",
+                    "Objective": "",
+                    "Impacts": "",
+                    "Value": ""
+                },
+                {
+                    "Timestamp": "",
+                    "Subjective": "",
+                    "Objective": "",
+                    "Impacts": "",
+                    "Value": ""
+                }
+            ]
+        }
+    ],
+    "Skills": [
+        {
+            "Name": "",
+            "Description": "",
+            "Level": 0,
+            "Category": ""
+        },
+        {
+            "Name": "",
+            "Description": "",
+            "Level": 0,
+            "Category": ""
+        }
+    ],
+    "Memories": [
+        {
+            "Timestamp": "",
+            "Description": ""
+        }
+    ],
+    "Psyche": {
+        "Personality": {
+            "openness to experience": "",
+            "conscientiousness": "",
+            "extraversion": "",
+            "agreeableness": "",
+            "neuroticism": ""
+        },
+        "Coping": {
+            "Overall": "",
+            "Personal": "",
+            "Cultural": ""
+        },
+        "Core Beliefs": [
+            {
+                "Title": "",
+                "Description": "",
+                "Influence": ""
+            },
+            {
+                "Title": "",
+                "Description": "",
+                "Influence": ""
+            }
+        ]
+    },
+    "Physical": {
+        "Head": {
+            "Condition": "",
+            "HP": "",
+            "HPMAX": "",
+            "Strength": "",
+            "Influencers": [
+                {
+                    "Description": "",
+                    "Affects": "",
+                    "Value": ""
+                }
+            ]
+        },
+        "Upper Body": {
+            "Chest": {
+                "Condition": "",
+                "HP": "",
+                "HPMAX": "",
+                "Strength": "",
+                "Influencers": [
+                    {
+                        "Description": "",
+                        "Affects": "",
+                        "Value": ""
+                    }
+                ]
+            },
+            "Abdomen": {
+                "Condition": "",
+                "HP": "",
+                "HPMAX": "",
+                "Strength": "",
+                "Influencers": [
+                    {
+                        "Description": "",
+                        "Affects": "",
+                        "Value": ""
+                    }
+                ]
+            },
+            "Left Arm": {
+                "Condition": "",
+                "HP": "",
+                "HPMAX": "",
+                "Strength": "",
+                "Influencers": [
+                    {
+                        "Description": "",
+                        "Affects": "",
+                        "Value": ""
+                    }
+                ]
+            },
+            "Right Arm": {
+                "Condition": "",
+                "HP": "",
+                "HPMAX": "",
+                "Strength": "",
+                "Influencers": [
+                    {
+                        "Description": "",
+                        "Affects": "",
+                        "Value": ""
+                    }
+                ]
+            },
+            "Left Hand": {
+                "Condition": "",
+                "HP": "",
+                "HPMAX": "",
+                "Strength": "",
+                "Influencers": [
+                    {
+                        "Description": "",
+                        "Affects": "",
+                        "Value": ""
+                    }
+                ]
+            },
+            "Right Hand": {
+                "Condition": "",
+                "HP": "",
+                "HPMAX": "",
+                "Strength": "",
+                "Influencers": [
+                    {
+                        "Description": "",
+                        "Affects": "",
+                        "Value": ""
+                    }
+                ]
+            }
+        },
+        "Lower Body": {
+            "Left Leg": {
+                "Condition": "",
+                "HP": "",
+                "HPMAX": "",
+                "Strength": "",
+                "Influencers": [
+                    {
+                        "Description": "",
+                        "Affects": "",
+                        "Value": ""
+                    }
+                ]
+            },
+            "Right Leg": {
+                "Condition": "",
+                "HP": "",
+                "HPMAX": "",
+                "Strength": "",
+                "Influencers": [
+                    {
+                        "Description": "",
+                        "Affects": "",
+                        "Value": ""
+                    }
+                ]
+            },
+            "Left Foot": {
+                "Condition": "",
+                "HP": "",
+                "HPMAX": "",
+                "Strength": "",
+                "Influencers": [
+                    {
+                        "Description": "",
+                        "Affects": "",
+                        "Value": ""
+                    }
+                ]
+            },
+            "Right Foot": {
+                "Condition": "",
+                "HP": "",
+                "HPMAX": "",
+                "Strength": "",
+                "Influencers": [
+                    {
+                        "Description": "",
+                        "Affects": "",
+                        "Value": ""
+                    }
+                ]
+            }
+        },
+        "Organs": {
+            "Heart": {
+                "Condition": "",
+                "HP": "",
+                "HPMAX": "",
+                "Strength": "",
+                "Influencers": [
+                    {
+                        "Description": "",
+                        "Affects": "",
+                        "Value": ""
+                    }
+                ]
+            },
+            "Liver": {
+                "Condition": "",
+                "HP": "",
+                "HPMAX": "",
+                "Strength": "",
+                "Influencers": [
+                    {
+                        "Description": "",
+                        "Affects": "",
+                        "Value": ""
+                    }
+                ]
+            },
+            "Stomach": {
+                "Condition": "",
+                "HP": "",
+                "HPMAX": "",
+                "Strength": "",
+                "Influencers": [
+                    {
+                        "Description": "",
+                        "Affects": "",
+                        "Value": ""
+                    }
+                ]
+            }
+        }
+    }
+}
