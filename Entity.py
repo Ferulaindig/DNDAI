@@ -1,2 +1,3 @@
 # What?
-class Entity
+class Entity:
+    pass
