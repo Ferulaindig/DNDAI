@@ -21,3 +21,9 @@ class PhysicalBody:
     def __init__(self) -> None:
         self.upperbody = UpperBody()
         self.lowerbody = LowerBody()
+
+
+class Human:
+    def __init__(self, id: str, firstname: str, lastname: str):
+        self.firstname = firstname
+        self.lastname = lastname
